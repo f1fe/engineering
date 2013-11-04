@@ -50,22 +50,39 @@ https://idmsa.apple.com/IDMSWebAuth/classicLogin.html?appIdKey=77e2a60d4bdfa6b73
 
 ## WWDC
 
-Download all the WWDC 2013 content
+**Download all the WWDC 2013 content**  
 https://github.com/jfahrenkrug/WWDC-Downloader
 
-## Frameworks
+## Favorite Frameworks and Tools
 
-**App styling framework**  
-https://github.com/quartermaster/DB5  
+**CocoaPods**  
+http://cocoapods.org/  
+
+**AFNetworking**  
+https://github.com/AFNetworking/AFNetworking  
+
+**SSPullToRefresh**  
+https://github.com/soffes/sspulltorefresh
+
+**Crashlytics**  
+https://www.crashlytics.com  
+
+**Flurry**  
+http://www.flurry.com/  
 
 **Tutorial on RestKit**  
 http://www.alexedge.co.uk/blog/2013/03/08/introduction-restkit-0-20  
 
+**Documentation in Xcode**  
+http://confusatory.org/post/63488534619/documentation-in-xcode-5  
+
+## Frameworks to Research
+
 **FMDB - This is an Objective-C wrapper around SQLite**  
 https://github.com/ccgus/fmdb  
 
-**Documentation in Xcode**  
-http://confusatory.org/post/63488534619/documentation-in-xcode-5  
+**App styling framework**  
+https://github.com/quartermaster/DB5  
 
 ## Misc
 
