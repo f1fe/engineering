@@ -24,7 +24,10 @@ http://nsscreencast.com/
 http://www.raywenderlich.com/46988/ios-design-patterns  
 
 **Essential iOS 7 Developer’s Guide**  
-http://www.doubleencore.com/2013/09/essential-ios-7-developers-guide/  
+http://www.doubleencore.com/2013/09/essential-ios-7-developers-guide/ 
+
+**NSHipster**  
+http://nshipster.com/  
 
 ## And more
 
@@ -75,6 +78,18 @@ http://www.alexedge.co.uk/blog/2013/03/08/introduction-restkit-0-20
 
 **Documentation in Xcode**  
 http://confusatory.org/post/63488534619/documentation-in-xcode-5  
+
+## News
+
+**iOS Dev Weekly**  
+http://iosdevweekly.com/  
+
+**Cocoa Controls Weekly Roundup**  
+https://www.cocoacontrols.com/  
+
+**Accidental Tech Podcast**  
+http://atp.fm/  
+
 
 ## Frameworks to Research
 
